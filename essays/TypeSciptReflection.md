@@ -16,7 +16,7 @@ labels:
 I have learned JavaScript before but TypeScript. It was my first time hearing TypeScript and I was excited to learn a whole entirely new programming language but also stressed about it . 
 Not until I actually started to learn about TypeScript, “wait ...Hold on isn’t this JavaScript”. I was already familiar with JavaScript and TypeScript felt similar to JavaScript, therefore 
 learning TypeScript went through like a breeze. Later on, I found out that TypeScript was invented to address the shortcomings of Javascript. There were a lot of new things that I learned 
-going through the module ES6 provided by freecodecamp. TypeScript, in my opinion, makes typing Javascript easier, quicker and catches bugs before the runtime. 
+going through the module ES6 provided by <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/">freecodecamp</a>. TypeScript, in my opinion, makes typing Javascript easier, quicker and catches bugs before the runtime. 
 
 *The Coding Esports*
 
