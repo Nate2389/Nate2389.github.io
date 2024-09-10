@@ -11,9 +11,9 @@ summary: "During my ICS 212 class, we were assignemnt a homework to create a fun
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full//390.png">
+  <img src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full//393.png">
+  <img src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full//387.png">
 </div>
 
 This homework introduces the use of vectors and maps.
