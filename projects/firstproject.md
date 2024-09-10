@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNggEtagHz85kQ5Y2FQPwNAFOY93sAVu7B_w&s
 title: "Pokemon Pokedex"
-date: 2015
+date: 2022
 published: false
 labels:
   - C++
