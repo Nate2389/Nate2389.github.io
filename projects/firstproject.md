@@ -16,16 +16,8 @@ summary: "During my ICS 212 class, we were assignemnt a homework to create a fun
   <img src= "https://assets.pokemon.com/assets/cms2/img/pokedex/full//387.png" width = 25%; height = 25%; >
 </div>
 
-This homework introduces the use of vectors and maps.
+
 
 ```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+
 ```
