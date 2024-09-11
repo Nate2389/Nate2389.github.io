@@ -1,9 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Famerican-chocolate-bar-brands-and-logos%2F&psig=AOvVaw15vu1CEXU9NMyggqqfqcWX&ust=1726185163589000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCa44WLvIgDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/df6e00ce-b3be-4df9-8086-b96017ec9aa2)
-![image](https://github.com/user-attachments/assets/df6e00ce-b3be-4df9-8086-b96017ec9aa2)
-![image](https://github.com/user-attachments/assets/df6e00ce-b3be-4df9-8086-b96017ec9aa2)
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4yzEUKlrwc73IR0HYf8BVMIbtijpCSYmLjA&s
 
 title: "My very first coding project"
 date: 2020
