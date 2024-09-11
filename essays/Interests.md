@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
 ---
-<img width = "50px" height = "50%" src ="https://static.vecteezy.com/system/resources/previews/004/909/777/non_2x/coding-logo-design-template-vector.jpg">
+<img width = "50%" height = "50%" src ="https://static.vecteezy.com/system/resources/previews/004/909/777/non_2x/coding-logo-design-template-vector.jpg">
 <p> 
 <h1> Coding World </h1>
 The 21st century is regarded by many as the digital age, a period where digital technology has had a profound impact on every aspect of our lives. Everywhere we go we can see what technology has had an impact on. From the way we communicate with, learn, work, and entertain ourselves. To this day, technology continues to change and improve, making our lives better. However, technology can’t change and improve on its own can it. Behind every change and improvement in technology lies the work of software engineers, the ones who design, develop, and maintain the software in every device and system we rely on daily. 
