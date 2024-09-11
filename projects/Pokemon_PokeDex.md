@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNggEtagHz85kQ5Y2FQPwNAFOY93sAVu7B_w&s
+image:
 title: "Pokemon Pokedex"
 date: 2022
-published: false
+published: true
 labels:
   - C++
 summary: "During my ICS 212 class, we were assignemnt a homework to create a functional Pokemon Pokedex in C++."
