@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: "Interests in Software Engineering"
+img: https://media.istockphoto.com/id/1125880200/vector/tech-hexagon-logo-developer-work-logotype-technology-biotechnology-tech-icon-and-symbol.jpg?s=612x612&w=0&k=20&c=ER5T786HbOhHNPXP77AHozxWkeqGjIslzayzqQdLonQ=
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-11
 published: true
