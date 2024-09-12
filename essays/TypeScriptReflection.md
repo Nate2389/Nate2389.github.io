@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="https://www.freecodecamp.org/news/content/images/2020/08/1_9XMpTyccrky0eW5Wz6DoWQ.png">
 
-*Javascript + “===” =  TypeScript*
+*avascript + “===” =  TypeScript*
 
 I have learned JavaScript before but TypeScript. It was my first time hearing TypeScript and I was excited to learn a whole entirely new programming language but also stressed about it . 
 Not until I actually started to learn about TypeScript, “wait ...Hold on isn’t this JavaScript”. I was already familiar with JavaScript and TypeScript felt similar to JavaScript, therefore 
