@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4yzEUKlrwc73IR0HYf8BVMIbtijpCSYmLjA&s
+image: img/chocolate-logo.jpg
 
 title: "My very first coding project"
 date: 2020
