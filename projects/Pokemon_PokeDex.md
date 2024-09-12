@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Pokemon_PokeDex/pokedex.jpeg
+image: img/pokedex.jpeg
 title: "Pokemon Pokedex"
 date: 2022
 published: true
