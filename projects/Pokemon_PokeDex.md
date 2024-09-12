@@ -15,11 +15,37 @@ summary: "During my ICS 212 class, we were assignemnt a homework to create a fun
   <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//387.png" width = "25%" height = "25%">
 </div>
 <p>
-  This assignment introduces the use of Map and Vectors. The object was to create a Pokemon Pokedex using maps and vectors...
+  This assignment introduces the use of Map and Vectors. The object was to create a Pokemon Pokedex of different pokemons with each of them having their own type and size. Once a pokemon has been constructed it will then be push into a vector. Then in the vector it well be added to a map. Once thats all done it'll print out all the pokemon in the pokedex with the typing and the weight. Below is a code to the main function:
 </p>
 
 
 
 ```cpp
-code in c++
+int main(int argc, char* argv[])
+{
+    Pokemon* pokeArray[3];
+    pokeArray[0] = new Chimchar();
+    pokeArray[1] = new Turtwig();
+    pokeArray[2] = new Piplup();
+    /* 
+     * Chimchar = fireChar
+     * Turtwig = grassWig
+     * Piplup = waterPulp
+     */
+    /*Vector container*/
+    vector<string> pokeCont;
+    pokeCont.push_back("fireChar");
+    pokeCont.push_back("grassWig");
+    pokeCont.push_back("waterPulp");
+    /*Map container*/
+    map<string,Pokemon*> pokeMap;
+    pokeMap["fireChar"] = pokeArray[0];
+    pokeMap["grassWig"] = pokeArray[1];
+    pokeMap["waterPulp"] = pokeArray[2]; 
+    /*loop checkPokedex to print all existing pokemons8*/
+    for (int i = 0; i < 3; i++)
+    {
+        checkPokedex(pokeMap[pokeCont[i]]);
+    }
+}
 ```
