@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/pandaexpresslogo.webp
 title: "Pandaless Restaruant Website"
 date: 2021
 published: false
