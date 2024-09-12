@@ -15,7 +15,7 @@ summary: "During my ICS 212 class, we were assignemnt a homework to create a fun
   <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//387.png" width = "25%" height = "25%">
 </div>
 <p>
-  This assignment introduces the use of Map and Vectors. The object was to create a Pokemon Pokedex where 
+  This assignment introduces the use of Map and Vectors. The object was to create a Pokemon Pokedex using maps and vectors...
 </p>
 
 
