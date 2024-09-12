@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RestaurantSC
+image: img/RestaurantSC.png
 title: "Pandaless Restaruant Website"
 date: 2021
 published: false
