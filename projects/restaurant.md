@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: IDK
+image: img/RestaurantSC
 title: "Pandaless Restaruant Website"
 date: 2021
 published: false
