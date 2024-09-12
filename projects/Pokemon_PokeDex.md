@@ -49,3 +49,6 @@ int main(int argc, char* argv[])
     }
 }
 ```
+<p>
+  Note: new Chimchar() is a function corresponds to a different cpp file that constructs the pokemon Chimchar with information like its type and its weight. Same goes with the other(new Piplup() and new Turtwig()). Each cpp file of the pokemon has its own h.file
+</p>
