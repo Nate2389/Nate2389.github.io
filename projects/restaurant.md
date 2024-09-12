@@ -9,7 +9,7 @@ labels:
   - JavaSript
 summary: "My First JavaScript Website"
 ---
-img/RestaurantSC.png
+<img src ="../img/RestaurantSC.png">
 <p>
   My second year of my Information Technology Pathway in High School focuses on the advanced coding language with the JavaScript Language. During the year we were taught how to develop front end web applications. Our final project of the year was to create a functional website. I came up with a idea of using my prior knowledge to create a functional website to order food. Which I named the "Pandaless Express"(Please don't copy right me @<a href ="https://www.pandaexpress.com">Panda Express</a>) It was a online store that had 6 food items and a choice to pick how much you would like of this dish. 
 
