@@ -12,7 +12,7 @@ summary: "During my ICS 212 class, we were assignemnt a homework to create a fun
 <div class="text-center p-4">
   <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//390.png" width = "50%">
   <img srtc="https://assets.pokemon.com/assets/cms2/img/pokedex/full//393.png">
-  <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//396.png"?
+  <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//387.png">
 </div>
 
 
