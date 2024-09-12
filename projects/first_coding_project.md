@@ -3,9 +3,9 @@ layout: project
 type: project
 image: img/chocolate-logo.jpg
 
-title: "My very first coding project"
+title: "My Very First Coding Project"
 date: 2020
-published: false
+published: true
   - HTML
   - CSS
 summary: "My very first coding project was to code a online shop with HTML and CSS."
