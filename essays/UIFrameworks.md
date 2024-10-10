@@ -23,7 +23,7 @@ At the core of the foundation are two essential components: Hypertext Markup Lan
   <p>
 It has been a week into bootstrap and I gotta say it makes developing UIs more convenient and efficient. UI frameworks have elevated the development process by providing prebuilt and reusable components that make development of UIs easier. Learning Bootstrap is like learning a new programming language, it has its coding standard, which could prove to be challenging to learn. However, once you have understood the fundamentals of UI frameworks like Bootstrap, it’ll greatly enhance your efficiency of making user interfaces while improving the visual aspect of it. When compared to raw HTML and CSS, there are some differences between the two. UI frameworks, like Bootstrap, offer pre-built components that make development easier and more efficient. While HTML and CSS do provide the same functionality, it requires more time and effort to achieve the result. In general, when creating a web browser it is best to use UI Frameworks as it provides simplicity and efficiency in building one. 
   </p>
-  <h2>My thoughs</h2>
+  <h2>My Thoughs</h2>
   <p>
 In conclusion, UI Frameworks like bootstrap enhance the process of developing user interfaces for software engineers making it more simple and easy. While developing user interfaces traditionally uses HTML and CSS, they can sometimes be more challenging compared to using UI frameworks. By utilizing UI Frameworks, developers can enhance the productivity of UIs with greater ease. 
   </p>
