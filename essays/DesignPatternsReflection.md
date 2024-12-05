@@ -7,7 +7,7 @@ published: true
 labels:
   - Software Engineering
 ---
-<img src="https://static.wixstatic.com/media/353803_56f4babad5cc4a0faae91bb5e72808eb~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/353803_56f4babad5cc4a0faae91bb5e72808eb~mv2.jpg">
+<img src="https://static.wixstatic.com/media/353803_56f4babad5cc4a0faae91bb5e72808eb~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/353803_56f4babad5cc4a0faae91bb5e72808eb~mv2.jpg" width="50%" height="50%">
 <h1> Design Patterns </h1>
 <p> 
   As a software engineer, coming up with project ideas and trying to implement them may sound easy and all but it is 
