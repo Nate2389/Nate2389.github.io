@@ -3,17 +3,34 @@ layout: essay
 type: essay
 title: "Reflect on Design Patterns"
 date: 2024-12-04
-published: false
+published: true
 labels:
   - Software Engineering
 ---
 <p> 
 <h1> Design Patterns </h1>
-The 21st century is regarded by many as the digital age, a period where digital technology has had a profound impact on every aspect of our lives. Everywhere we go we can see what technology has had an impact on. From the way we communicate with, learn, work, and entertain ourselves. To this day, technology continues to change and improve, making our lives better. However, technology can’t change and improve on its own can it. Behind every change and improvement in technology lies the work of software engineers, the ones who design, develop, and maintain the software in every device and system we rely on daily. 
-<h1>My Experience</h1>
-  All my life, I have been around technology. I grew up watching television, playing Nintendo games, and having conversations with friends and family through digital devices. One day it struck, how does it work? How can technology impact our lives this much? Therefore I was inspired to do something that was related to technology when I grew up. 
-  My first ever “technology” related class was a coding class in High School. It was a 4 year course however I only took 2 years worth of that course due to me not knowing that my school provides a course like this. The first year/level was an introduction class to programming for those that are interested in computer science. This class taught us some Logic, Composition and Decomposition in algorithms, Python, HTML, and CSS. The second year/level was a continuation of the first year however it focuses on advanced coding with JavaScript. Those 2 years sparked a passion for programming that led me to continue pursuing it in college.
-  My college experience has really deepened my understanding of programming. I have had the opportunity to work on some projects that explore new areas of programming like Data Structures, Algorithms, and software development. These projects have impacted me and developed my passion for software development. One of the things that excites me about software development is the aspect of problem solving, figuring out the problem and finding different varieties of solutions to that single problem. 
-<h1>Present</h1>
-  Overall, it has been a journey from youth to now. From being inspired by technology to a student of software engineering. I have come to understand the impact technology has had, especially software development on our world. My experience from high school to college has significantly enhanced my coding skills and deepened my passion for this field. Going forward, I hope to further develop my skills and I am excited to learn new things in the field of software engineering. 
+<p> 
+  As a software engineer, coming up with project ideas and trying to implement them may sound easy and all but it is 
+harder than you think. It is a pain in the butt to start to code from scratch. Trying to implement something and having 
+it not work and you try to find out a solution to it but nothing works. I know it sucks however, that is all about to 
+change due to this thing called design patterns. What are design patterns you say, well design patterns are reusable 
+solutions. Design patterns are already well structured and manageable where you can use it as a base for your project. 
+The solution is scalable, meaning that if you want, you can improve the code or you can implement new code as you desire. 
+This way it provides a more efficient and flexible way of coding. 
 </p>
+<p> 
+  There are many different types of design patterns depending on what your project is going to be. I am currently working 
+on a team project where we implement it using a Next.js application template. The Next.js application template is implemented 
+by many different design patterns. Design patterns are classified into three types: Creational, Structural, and Behavioral. 
+Singleton Method Pattern Design is one Creational type design pattern that the template has. It ensures that a class has just 
+one instance and is accessed across the application. One Structural type design pattern that the template implements (honestly my favorite) 
+is that it uses a React component-based design similar to a Composite Method Design Pattern, where the UI is implemented using
+multiple components making it easier, reusable, and more clean. A Behavioral type design pattern that the template implements is 
+the Template Method design pattern. Which ensures a structure where specific implementations are classified as child classes and 
+they are maintained by a parent class.
+</p>
+<p>
+  Overall, design patterns are great for making software engineers' lives of coding easier with having reusable solutions to use. 
+With reusable solutions we can focus more on the implementation of features.
+</p>
+
