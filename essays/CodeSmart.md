@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Ask Smart, Code Smart"
 date: 2024-09-11
-published: false
+published: true
 labels:
   - Software Engineering
 ---
