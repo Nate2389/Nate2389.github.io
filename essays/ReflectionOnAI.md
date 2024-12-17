@@ -46,7 +46,7 @@ AI has a significant impact on my learning and understanding in many classes. Th
 <h1></h1>Practical Applications
 
 <h1>Challenges and Opportunities</h1>
-As great 
+As great as
 <h1>Comparative Analysis</h1>
 <h1>Future Considerations</h1>
 
