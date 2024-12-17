@@ -43,13 +43,14 @@ I have asked Copilot many times to check what was wrong with the code I had in v
 I have used ChatGPT many times outside of ICS 314. ChatGPT is able to analyze the data and be able to provide or answer any questions I give it. It helps in providing an explanation to any topic I need to understand for an assignment or quiz.
 <h1>Impact on Learning and Understanding</h1> 
 AI has a significant impact on my learning and understanding in many classes. They have made grasping the concepts easier, solving problems, and debugging errors efficiently. However, as I said over reliance on AI can hinder independent problem solving skills and critical thinking, which highlights the importance of finding a balance between the usage of AI.
-<h1></h1>Practical Applications
-
+<h1>Practical Applications</h1>
+A practical application outside of ICS314 would be healthcare. Healthcare professionals use AI to efficiently and effectively diagnose patients. AI can quickly analyze data and come up with the right treatment plans. AI is able to generate pictures or 3D models of the patient which can help professionals plan for a successful operation. This shows how AI can be applied in almost every activity outside of ICS 314.
 <h1>Challenges and Opportunities</h1>
-As great as
+As great as AI is it does presnet some challenges. As said before there are some cases were ChatGPT and Copilot aren't able to correctly provide me the right information that I need. There be a time where Copilot's code doesn't entirely work and it isn't able to address why its code doesn't work. However because of this limitation it is seen as a opportunity for AI to be able to further improve and lift those challenges. 
 <h1>Comparative Analysis</h1>
+Traditional teaching methods focuses on the foundations of independent understanding and problem-solving. AI enhances the teaching method by simplify it for you to better understand it. AI basically justs makes your understanding more simplier and solves problems for you. AI is basically a cheat code.
 <h1>Future Considerations</h1>
-
+AI has revolutionized how we learn and do certain tasks. AI can provide a key role in the future of education, specifically in Software Engineering courses. As it can provided assistances to solving problems and debugging errors. It can also suggest recommendations or improvements to your Code. However, challenges do rise when using AI so address those matters can further improve AI. 
 <h1>Conclusion</h1>
 Reflecting on my experiences with AI in ICS 314 and all the other classes, it is without a doubt that AI tools have had a significant impact on my education by enhancing the learning experience. I am able to fully and quickly understand any prompt. However, fully relying on AI could have a negative impact on our learning as over using it could prevent us from developing essential problem-solving skills. I believe that using AI in the Software Engineering course is a good thing as it could aid in students learning, however there must be a limit of the usage of AI. Therefore, a recommendation could be to limit the use of AI as it could potentially harm our learning environment. 
 
