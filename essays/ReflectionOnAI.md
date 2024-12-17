@@ -7,7 +7,7 @@ published: true
 labels:
   - Software Engineering
 ---
-<img width = "50%" height = "50%" src ="[https://static.vecteezy.com/system/resources/previews/004/909/777/non_2x/coding-logo-design-template-vector.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvR6wJu_JFwhMXJIHbFil-M5nFdpvVKEXc8w&s)">
+<img width = "50%" height = "50%" src ="https://xira.ai/wp-content/uploads/2023/05/img16.png">
 <p> 
 <h1>Introduction</h1>
 AI serves as an important tool in education. It has enhanced my learning in many different classes, particularly in the field of Software Engineering. AI tools can assist in my projects by suggesting codes, provide helpful alternatives so that the codes are implemented the right way, and help debug problems. Some AI tools that I have used are ChatGPT and Github Copilot. These two tools have really influenced my learning process in my education and in the field of Software Engineering.
