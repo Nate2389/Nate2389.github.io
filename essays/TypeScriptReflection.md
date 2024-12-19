@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="https://www.freecodecamp.org/news/content/images/2020/08/1_9XMpTyccrky0eW5Wz6DoWQ.png">
+<img width="400px" class="rounded float-start pe-4" src="https://kvz.io/assets/images/posts/js-ts.png">
 
 *Javascript + “===” =  TypeScript*
 
