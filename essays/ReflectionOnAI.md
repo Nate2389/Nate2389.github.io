@@ -6,6 +6,7 @@ date: 2024-12-16
 published: true
 labels:
   - Software Engineering
+  - AI
 ---
 <img width = "50%" height = "50%" src ="https://xira.ai/wp-content/uploads/2023/05/img16.png">
 <p> 
