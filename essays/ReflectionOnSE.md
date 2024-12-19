@@ -6,6 +6,7 @@ date: 2024-12-18
 published: true
 labels:
   - Software Engineering
+  - Ethics
 ---
 <img src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4829.jpg">
 <h1>Software Engineering</h1>
