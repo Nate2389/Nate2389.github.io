@@ -6,6 +6,8 @@ date: 2024-10-9
 published: true
 labels:
   - Software Engineering
+  - HTML
+  - CSS
 ---
 
 <body>
