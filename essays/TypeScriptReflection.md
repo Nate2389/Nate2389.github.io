@@ -6,7 +6,9 @@ title: "Journey Continues"
 date: 2024-09-04
 published: true
 labels:
-  - Engineering
+  - TypeScript
+  - JavaScript
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="https://www.freecodecamp.org/news/content/images/2020/08/1_9XMpTyccrky0eW5Wz6DoWQ.png">
