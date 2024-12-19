@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - HTML
   - CSS
+  - Bootstrap
 ---
 
 <body>
