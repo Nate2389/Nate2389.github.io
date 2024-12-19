@@ -24,7 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS", "PYTHON","C", "C++", "Javascript"]
+      "keywords": [ "HTML", "CSS", "PYTHON","C", "C++", "JavaScript", "TypeScript", "React", "NextJS"]
     },
     {
       "name": "Toolsets/OS",
@@ -44,63 +44,23 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
+      "company": "Dairy Queen",
+      "position": ["Cashier", "Crew Member"],
+      "website": <a href="https://www.dairyqueen.com/en-us/">https://www.dairyqueen.com/en-us/</a>,
+      "startDate": "2021-04-21",
+      "endDate": "?",
+      "summary": [
+        {
+          <ul>
+            <li>Provided excellent customer service</li>
+            <li>Prepared food and handled cash transactions accurately and efficiently</li>
+          </ul>
+        }
+      ],
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": ""
-    }
-  ],
   "references": [
     {
+      "Available upon request"
     }
   ]
 }
