@@ -46,15 +46,13 @@
     {
       "company": "Dairy Queen",
       "position": ["Cashier", "Crew Member"],
-      "website": <a href="https://www.dairyqueen.com/en-us/">https://www.dairyqueen.com/en-us/</a>,
+      "website": "https://www.dairyqueen.com/en-us/",
       "startDate": "2021-04-21",
-      "endDate": "?",
+      "endDate": "Present",
       "summary": [
         {
-          <ul>
-            <li>Provided excellent customer service</li>
-            <li>Prepared food and handled cash transactions accurately and efficiently</li>
-          </ul>
+          <li>Provided excellent customer service</li>
+          <li>Prepared food and handled cash transactions accurately and efficiently</li>
         }
       ]
     }
