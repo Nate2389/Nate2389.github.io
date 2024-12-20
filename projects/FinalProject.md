@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/ics-314-code-crew/ics-314-code-crew.github.io/blob/main/doc/daClubLogo.png?raw=true
+image: img/DaClubLogo.png
 title: "Da Club"
 date: 2024-12-20
 published: true
