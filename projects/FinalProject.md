@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DaClubLogo.png
+image: https://github.com/ics-314-code-crew/ics-314-code-crew.github.io/blob/main/doc/daClubLogo.png?raw=true
 title: "Da Club"
 date: 2024-12-20
 published: true
@@ -42,7 +42,7 @@ summary: "For our ICS 314 Final Project, we created a application called Da Club
   Take Aways
 </h1>
 <p>
-  This experience has really showed me of what it takes to being in a team of developers working together to try addrees the certain problems. 
+  This experience has really showed me of what it takes to being in a team of developers working together to try address certain problems. 
   It has significantly improved my understanding of collaboration, problem-solving, and the importance of communciation. 
 </p>
 <p>
