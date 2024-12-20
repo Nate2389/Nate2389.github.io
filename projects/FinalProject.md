@@ -10,7 +10,7 @@ labels:
   - Bootstrap-React
 summary: "For our ICS 314 Final Project, we created a application called Da Club"
 ---
-<h1>Project: Da Club<h1>
+<h1>Project: Da Club</h1>
 <img src="../img/unauthlandingpage.png" width="50%" height="50%">
 <i>The page above is the landing of our applications for those who haven signed up.</i>
 <p>
